@@ -1,3 +1,5 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Tarponise]
+description: [Projeto de extensão da Universidade de Pernambuco, fundado por grupo de alunos, voltado a ensinar, difundir e educar pessoas na área de Cybersegurança --- https://allmylinks.com/tarponise]
