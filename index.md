@@ -1,6 +1,6 @@
 ## *tarponise@team:~$* whoami
 
-Projeto de extensão da Universidade de Pernambuco, fundado por grupo de alunos, voltado a ensinar, difundir e educar pessoas na área de Cybersegurança
+Projeto de extensão da Universidade de Pernambuco, fundado por grupo de alunos, voltado a ensinar, difundir e educar pessoas na área de Cybersegurança.
 
 ## *tarponise@team:~$* cat social-media
 
